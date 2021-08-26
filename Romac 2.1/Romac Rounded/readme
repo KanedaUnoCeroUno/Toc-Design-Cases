@@ -1,0 +1,8 @@
+-Designed to use 1.5mm POM plate.
+-Use the bottom of FR4.
+-The gap between the top of the plate to the FR4 is 7.5mm.
+-A layer of 1.5mm POM on the plate to raise the top layer and not damage the mpc.
+-Possibility of adding layers until physical laws allow it.
+-The FR4's own mounts holes could be used to add angle to the case.
+-The hole left for the usb cable and in general the whole case is not verified for its functionality. I do not have the romac mounted and even less access to a laser cutter.
+-Critics and advice welcome!
